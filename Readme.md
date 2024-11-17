@@ -3,7 +3,7 @@
 食用方法：
 
 方法一  
-在线导入`https://kkgithub.com/menglongoioioi/lxmusic-sources/blob/main/文件名.js`
+在线导入`https://raw.kkgithub.com/menglongoioioi/lxmusic-sources/main/filename.js`
 
 方法二
 本地导入  
